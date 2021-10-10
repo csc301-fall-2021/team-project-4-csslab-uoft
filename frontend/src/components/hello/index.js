@@ -15,7 +15,7 @@ class HelloWorld extends React.Component {
   }
 
   getHello() {
-    fetch('http://127.0.0.1:7000/api/')
+    fetch('/api/')
       .then((response) => response.json())
       .then((json) => {
         this.setState({
