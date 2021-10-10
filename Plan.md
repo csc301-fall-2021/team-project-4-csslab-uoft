@@ -2,7 +2,8 @@
 
 Local:
 - Basic FastAPI app - done
-- Basic react app
+- Basic react app - done
+- react talks to fastapi backend locally - done
 - Install mongodb
 
 Deploy
